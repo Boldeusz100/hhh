@@ -17,3 +17,13 @@ C:\Users\On\Documents\VISTULA\Semestr5\Grafika i komunikacja\Nienajadlo-grafika\
 C:\Users\On\Documents\VISTULA\Semestr5\Grafika i komunikacja\Nienajadlo-grafika\Algorytmy graficzne\Algorytmy graficzne\obj\Debug\Algorytmy graficzne.csproj.CoreCompileInputs.cache
 C:\Users\On\Documents\VISTULA\Semestr5\Grafika i komunikacja\Nienajadlo-grafika\Algorytmy graficzne\Algorytmy graficzne\obj\Debug\Algorytmy graficzne.exe
 C:\Users\On\Documents\VISTULA\Semestr5\Grafika i komunikacja\Nienajadlo-grafika\Algorytmy graficzne\Algorytmy graficzne\obj\Debug\Algorytmy graficzne.pdb
+C:\Users\On\Desktop\Git\drugi\hhh\Algorytmy graficzne\Algorytmy graficzne\bin\Debug\Algorytmy graficzne.exe.config
+C:\Users\On\Desktop\Git\drugi\hhh\Algorytmy graficzne\Algorytmy graficzne\bin\Debug\Algorytmy graficzne.exe
+C:\Users\On\Desktop\Git\drugi\hhh\Algorytmy graficzne\Algorytmy graficzne\bin\Debug\Algorytmy graficzne.pdb
+C:\Users\On\Desktop\Git\drugi\hhh\Algorytmy graficzne\Algorytmy graficzne\obj\Debug\Algorytmy graficzne.csprojAssemblyReference.cache
+C:\Users\On\Desktop\Git\drugi\hhh\Algorytmy graficzne\Algorytmy graficzne\obj\Debug\Algorytmy_graficzne.Form1.resources
+C:\Users\On\Desktop\Git\drugi\hhh\Algorytmy graficzne\Algorytmy graficzne\obj\Debug\Algorytmy_graficzne.Properties.Resources.resources
+C:\Users\On\Desktop\Git\drugi\hhh\Algorytmy graficzne\Algorytmy graficzne\obj\Debug\Algorytmy graficzne.csproj.GenerateResource.cache
+C:\Users\On\Desktop\Git\drugi\hhh\Algorytmy graficzne\Algorytmy graficzne\obj\Debug\Algorytmy graficzne.csproj.CoreCompileInputs.cache
+C:\Users\On\Desktop\Git\drugi\hhh\Algorytmy graficzne\Algorytmy graficzne\obj\Debug\Algorytmy graficzne.exe
+C:\Users\On\Desktop\Git\drugi\hhh\Algorytmy graficzne\Algorytmy graficzne\obj\Debug\Algorytmy graficzne.pdb

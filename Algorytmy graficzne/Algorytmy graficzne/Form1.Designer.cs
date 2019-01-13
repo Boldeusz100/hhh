@@ -51,11 +51,11 @@ namespace Algorytmy_graficzne
             // BTN_RysujOdcinek
             // 
             this.BTN_RysujOdcinek.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.BTN_RysujOdcinek.Location = new System.Drawing.Point(667, 12);
+            this.BTN_RysujOdcinek.Location = new System.Drawing.Point(667, 0);
             this.BTN_RysujOdcinek.Name = "BTN_RysujOdcinek";
-            this.BTN_RysujOdcinek.Size = new System.Drawing.Size(126, 45);
+            this.BTN_RysujOdcinek.Size = new System.Drawing.Size(126, 57);
             this.BTN_RysujOdcinek.TabIndex = 1;
-            this.BTN_RysujOdcinek.Text = "Rysuj odcinek";
+            this.BTN_RysujOdcinek.Text = "Rysuj odcinek 2";
             this.BTN_RysujOdcinek.UseVisualStyleBackColor = true;
             this.BTN_RysujOdcinek.Click += new System.EventHandler(this.BTN_RysujOdcinek_Click);
             // 
