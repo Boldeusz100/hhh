@@ -1,0 +1,19 @@
+C:\Users\student\Desktop\Nienajadlo-grafika\Algorytmy graficzne\Algorytmy graficzne\bin\Debug\Algorytmy graficzne.exe.config
+C:\Users\student\Desktop\Nienajadlo-grafika\Algorytmy graficzne\Algorytmy graficzne\bin\Debug\Algorytmy graficzne.exe
+C:\Users\student\Desktop\Nienajadlo-grafika\Algorytmy graficzne\Algorytmy graficzne\bin\Debug\Algorytmy graficzne.pdb
+C:\Users\student\Desktop\Nienajadlo-grafika\Algorytmy graficzne\Algorytmy graficzne\obj\Debug\Algorytmy graficzne.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Nienajadlo-grafika\Algorytmy graficzne\Algorytmy graficzne\obj\Debug\Algorytmy_graficzne.Form1.resources
+C:\Users\student\Desktop\Nienajadlo-grafika\Algorytmy graficzne\Algorytmy graficzne\obj\Debug\Algorytmy_graficzne.Properties.Resources.resources
+C:\Users\student\Desktop\Nienajadlo-grafika\Algorytmy graficzne\Algorytmy graficzne\obj\Debug\Algorytmy graficzne.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\Nienajadlo-grafika\Algorytmy graficzne\Algorytmy graficzne\obj\Debug\Algorytmy graficzne.exe
+C:\Users\student\Desktop\Nienajadlo-grafika\Algorytmy graficzne\Algorytmy graficzne\obj\Debug\Algorytmy graficzne.pdb
+C:\Users\On\Documents\VISTULA\Semestr5\Grafika i komunikacja\Nienajadlo-grafika\Algorytmy graficzne\Algorytmy graficzne\bin\Debug\Algorytmy graficzne.exe.config
+C:\Users\On\Documents\VISTULA\Semestr5\Grafika i komunikacja\Nienajadlo-grafika\Algorytmy graficzne\Algorytmy graficzne\bin\Debug\Algorytmy graficzne.exe
+C:\Users\On\Documents\VISTULA\Semestr5\Grafika i komunikacja\Nienajadlo-grafika\Algorytmy graficzne\Algorytmy graficzne\bin\Debug\Algorytmy graficzne.pdb
+C:\Users\On\Documents\VISTULA\Semestr5\Grafika i komunikacja\Nienajadlo-grafika\Algorytmy graficzne\Algorytmy graficzne\obj\Debug\Algorytmy graficzne.csprojAssemblyReference.cache
+C:\Users\On\Documents\VISTULA\Semestr5\Grafika i komunikacja\Nienajadlo-grafika\Algorytmy graficzne\Algorytmy graficzne\obj\Debug\Algorytmy_graficzne.Form1.resources
+C:\Users\On\Documents\VISTULA\Semestr5\Grafika i komunikacja\Nienajadlo-grafika\Algorytmy graficzne\Algorytmy graficzne\obj\Debug\Algorytmy_graficzne.Properties.Resources.resources
+C:\Users\On\Documents\VISTULA\Semestr5\Grafika i komunikacja\Nienajadlo-grafika\Algorytmy graficzne\Algorytmy graficzne\obj\Debug\Algorytmy graficzne.csproj.GenerateResource.cache
+C:\Users\On\Documents\VISTULA\Semestr5\Grafika i komunikacja\Nienajadlo-grafika\Algorytmy graficzne\Algorytmy graficzne\obj\Debug\Algorytmy graficzne.csproj.CoreCompileInputs.cache
+C:\Users\On\Documents\VISTULA\Semestr5\Grafika i komunikacja\Nienajadlo-grafika\Algorytmy graficzne\Algorytmy graficzne\obj\Debug\Algorytmy graficzne.exe
+C:\Users\On\Documents\VISTULA\Semestr5\Grafika i komunikacja\Nienajadlo-grafika\Algorytmy graficzne\Algorytmy graficzne\obj\Debug\Algorytmy graficzne.pdb
